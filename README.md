@@ -7,7 +7,6 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+with+Python+%26+AI;Exploring+Machine+Learning;Learning+Generative+AI;Working+with+Data;Building+Full+Stack+Applications" alt="Typing SVG" />
 </p>
-
 <img src="https://komarev.com/ghpvc/?username=nandhiniduraisamy72-droid&label=Profile%20Views&color=7c3aed&style=flat-square" />
 
 </div>
